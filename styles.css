@@ -58,7 +58,7 @@ main section h2 {
 /*Cursor*/
 .cursor{
     z-index: 999;
-    position: fixed;
+    position: absolute;
     background: #2696E8;
     width: 20px;
     height: 20px;
