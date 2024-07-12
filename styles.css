@@ -40,6 +40,22 @@ header nav ul li a:hover {
     text-decoration: underline;
 }
 
+/*Font*/
+p{
+    font-family: arial;
+    font-size: 20px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
 /* Main section styling */
 main {
     padding: 20px 0;
@@ -97,7 +113,6 @@ main section h2 {
     display: flex;
     align-items: flex-start;
     gap: 20px;
-    font-size: 20px;
 }
 
 .home-content img {
